@@ -7,7 +7,7 @@
 ## English Version
 
 ## 👨‍💻 About Me
-I am currently a senior AI major student at [TamKang University](https://tku.edu.tw) in Taiwan. My primary focus is in computer vision, image processing, artificial intelligence, machine learning, and natural language processing (NLP). I have a passion for developing AI models, especially in areas like **semantic segmentation** and **deep learning**.
+I am currently a senior AI major student at [TamKang University](https://tku.edu.tw) in Taiwan. My primary focus is in computer vision, image processing, artificial intelligence, machine learning, and natural language processing (NLP). I have a passion for developing AI models, especially in areas like **semantic segmentation** and **computer vision**.
 
 I am also actively involved in AI research and am constantly exploring ways to apply AI in practical scenarios. I have recently applied for the pre-research student qualification in my department and am looking for opportunities to collaborate with professors on cutting-edge AI projects.
 
@@ -33,8 +33,7 @@ I am also actively involved in AI research and am constantly exploring ways to a
 - GitHub: [your-github-profile](https://github.com/your-profile)
 
 ## 🌟 Fun Fact
-When I’m not coding, I love to explore AI ethics, read sci-fi novels, and play chess.
-
+In addition to programming, I enjoy exploring computer hardware and software. I hold an intermediate repair certification from the Tamkang University Computer Repair Service Team.I am currently working towards obtaining the advanced repair certification.
 ---
 
 Feel free to reach out if you’re interested in collaborating or just want to chat about AI and machine learning!
@@ -48,7 +47,7 @@ Feel free to reach out if you’re interested in collaborating or just want to c
 ---
 
 ## 👨‍💻 關於我
-我目前是[淡江大學](https://tku.edu.tw)的資工系四年級學生，專攻電腦視覺、影像處理、人工智慧、機器學習以及自然語言處理（NLP）。我對開發AI模型充滿熱情，尤其是在**語意分割**及**深度學習**領域。
+我目前是[淡江大學](https://tku.edu.tw)的人工智慧學系四年級學生，專攻電腦視覺、影像處理、人工智慧、機器學習以及自然語言處理（NLP）。我對開發AI模型充滿熱情，尤其是在**語意分割**及**電腦視覺**領域。
 
 我積極參與AI研究，並不斷探索如何將AI應用於實際情境中。我最近申請了系上的預研資格，並尋找機會與教授合作進行前沿的AI專案。
 
@@ -70,10 +69,10 @@ Feel free to reach out if you’re interested in collaborating or just want to c
 ## 📫 聯絡方式
 - 電子郵件: [melvin0kuo@gmail.com](mailto:melvin0kuo@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/melvin0kuo/](https://www.linkedin.com/in/melvin0kuo/)
-- GitHub: [your-github-profile](https://github.com/your-profile)
+- GitHub: [https://github.com/melvin0kuo](https://github.com/melvin0kuo)
 
 ## 🌟 趣聞
-除了寫程式外，我喜歡探索AI倫理議題，閱讀科幻小說，並下國際象棋。
+除了寫程式外，我喜歡探索電腦軟硬體,擁有淡江大學電腦維修隊中級維修證照,正在朝著高級維修證照努力中。
 
 ---
 
