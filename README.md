@@ -30,7 +30,7 @@ I am also actively involved in AI research and am constantly exploring ways to a
 ## 📫 How to Reach Me
 - Email: [melvin0kuo@gmail.com](mailto:melvin0kuo@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/melvin0kuo/](https://www.linkedin.com/in/melvin0kuo/)
-- GitHub: [your-github-profile](https://github.com/your-profile)
+- GitHub: [https://github.com/melvin0kuo](https://github.com/melvin0kuo)
 
 ## 🌟 Fun Fact
 In addition to programming, I enjoy exploring computer hardware and software. I hold an intermediate repair certification from the Tamkang University Computer Repair Service Team.I am currently working towards obtaining the advanced repair certification.
