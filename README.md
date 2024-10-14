@@ -1,4 +1,4 @@
-# Melvin Kuo
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&vCenter=true&width=435&lines=Melvin+Kuo)](https://git.io/typing-svg)
 
 [English Version](#english-version) | [中文版](#中文版)
 
