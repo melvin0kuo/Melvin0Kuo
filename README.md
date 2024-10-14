@@ -1,5 +1,5 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&vCenter=true&width=435&lines=Melvin+Kuo)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&vCenter=true&multiline=true&repeat=false&width=435&lines=%E7%A3%A8%E7%B7%B4%E6%98%AF%E9%80%B2%E6%AD%A5%E7%9A%84%E9%A4%8A%E5%88%86%EF%BC%8C%E5%A0%85%E6%8C%81%E6%9C%83%E9%96%8B%E8%8A%B1%E7%B5%90%E6%9E%9C%E3%80%82)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Qwitcher+Grypen&size=80&pause=1000&width=435&height=90&lines=Melvin+Kuo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kaiti&duration=2000&pause=500&vCenter=true&multiline=true&repeat=false&width=435&lines=%E7%A3%A8%E7%B7%B4%E6%98%AF%E9%80%B2%E6%AD%A5%E7%9A%84%E9%A4%8A%E5%88%86%EF%BC%8C%E5%A0%85%E6%8C%81%E6%9C%83%E9%96%8B%E8%8A%B1%E7%B5%90%E6%9E%9C%E3%80%82)](https://git.io/typing-svg)
 
 [English Version](#english-version) | [中文版](#中文版)
 
