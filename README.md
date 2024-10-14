@@ -97,5 +97,8 @@ Feel free to reach out if you’re interested in collaborating or just want to c
 
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melvin0kuo&layout=compact&show_icons=true&theme=radical&bg_color=000000) 
 
+
+---
 如果你對AI專案或合作有興趣，或只是想聊聊人工智慧和機器學習，歡迎聯繫我！
