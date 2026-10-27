@@ -33,6 +33,21 @@ Computer Vision · Applied AI · Smart Home · Hardware & Software
 
 ## 🚀 Selected Projects
 
+### 🚁 Basalt ROS 2 · 無人機視覺慣性定位研究平台
+
+**將雙目影像與 IMU 接上飛控，建立能記錄、分析與遠端操作的 VIO 研究平台。**
+
+- **系統架構**：Jetson 上整合 OAK-D、DepthAI、Basalt 與 ROS 2，經座標／時間對齊及 DDS 接入 ArduPilot ExternalNav。
+- **實作內容**：感測器接入、機身外參轉換、飛控通訊、ROS bag／BIN 記錄、GNSS 參考軌跡比較與離線 mapping 分析。
+- **操作工具**：桌面 HUD、啟停與參數操作，搭配 Tailscale 遠端監看及地面控制網頁。
+- **目前階段**：系統整合與實驗平台；學習式觀測可靠度及非同步推論為後續研究方向。程式碼仍在 Jetson，私人 repo 先保存報告與摘要。
+
+<sub>已有歷史配置飛行記錄；Here4 新配置仍待校正與重新飛行驗證。未宣稱完成原創定位演算法或精度提升。</sub>
+
+`ROS 2` `Basalt VIO` `OAK-D` `Jetson` `ArduPilot` `DDS` `MAVLink`
+
+---
+
 ### 🦆 [呱呱 · Discord AI Assistant](https://github.com/melvin0kuo/DISCORD-BOT)
 
 **一隻住在 Discord，會聊天、讀文件，也陪你聽音樂的多功能鴨子。**
@@ -144,21 +159,25 @@ I enjoy connecting AI, software, and hardware—and working through the details 
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub · By the Numbers
 
 <div align="center">
 
-<a href="https://github.com/melvin0kuo">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=melvin0kuo&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1729&amp;title_color=67E8F9&amp;text_color=C0CCE0&amp;icon_color=C4B5FD" alt="Melvin Kuo 的 GitHub 統計：Stars、Commits、PR 與 Issues" />
-</a>
+<p><strong>BUILD CONSISTENTLY · KEEP EXPLORING</strong><br />
+<sub>開源參與、持續貢獻，以及專案使用的程式語言。</sub></p>
+
 <a href="https://github.com/melvin0kuo?tab=overview">
-  <img width="48%" src="https://streak-stats.demolab.com?user=melvin0kuo&amp;theme=tokyonight&amp;hide_border=true" alt="Melvin Kuo 的累積貢獻、目前連續貢獻與最長連續貢獻天數" />
+  <img width="680" src="https://github-readme-stats.vercel.app/api?username=melvin0kuo&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;card_width=680&amp;bg_color=0D1729&amp;title_color=67E8F9&amp;text_color=C0CCE0&amp;icon_color=C4B5FD&amp;custom_title=Open%20Source%20Overview" alt="GitHub 開源參與統計" />
+</a>
+
+<a href="https://github.com/melvin0kuo?tab=overview">
+  <img width="680" src="https://streak-stats.demolab.com?user=melvin0kuo&amp;hide_border=true&amp;card_width=680&amp;background=0D1729&amp;ring=67E8F9&amp;fire=C4B5FD&amp;currStreakNum=F1F5FF&amp;sideNums=F1F5FF&amp;currStreakLabel=67E8F9&amp;sideLabels=C0CCE0&amp;dates=91A5C1&amp;stroke=243650" alt="累積貢獻與連續貢獻天數" />
 </a>
 
 <a href="https://github.com/melvin0kuo?tab=repositories">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melvin0kuo&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1729&amp;title_color=67E8F9&amp;text_color=C0CCE0&amp;langs_count=8" alt="Melvin Kuo 公開儲存庫的常用程式語言分布" />
+  <img width="680" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melvin0kuo&amp;layout=compact&amp;hide_border=true&amp;card_width=680&amp;bg_color=0D1729&amp;title_color=67E8F9&amp;text_color=C0CCE0&amp;langs_count=6&amp;hide=Jupyter%20Notebook&amp;custom_title=Languages%20Across%20My%20Projects" alt="專案程式語言分布，不含 Jupyter Notebook" />
 </a>
 
-<sub>圖表依服務快取更新；語言分布依儲存庫程式碼統計，並非熟練度排名。</sub>
+<sub>圖表依服務快取更新 · 語言統計排除 Jupyter Notebook，呈現程式碼分布，並非熟練度排名。</sub>
 
 </div>
