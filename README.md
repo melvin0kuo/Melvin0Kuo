@@ -1,6 +1,6 @@
 <div align="center">
 
-![Melvin Kuo](assets/banner.svg)
+![Melvin Kuo](assets/profile-banner-v2.svg)
 
 **把 AI 接上真實生活，把想法做成能用的系統。**
 
