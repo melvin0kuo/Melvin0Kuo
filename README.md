@@ -45,6 +45,17 @@ Computer Vision · Applied AI · Smart Home · Hardware & Software
 
 ---
 
+### 🔋 [macbookBatteryMonitor · macOS 電池與系統監控](https://github.com/melvin0kuo/macbookBatteryMonitor)
+
+**Contributor · 參與改善 macOS 選單列電池監控的功耗資訊與操作介面。**
+
+- **專案用途**：在 macOS 選單列查看電量、電池健康度、剩餘時間與硬體功耗。
+- **我的貢獻**：動畫電力流向、分層硬體功耗、功率感測備援、選單列圖示內百分比與滿電穩定顯示。
+- **進階功能**：參與管理員 CPU 功耗取樣功能；貢獻紀錄見[上游專案致謝](https://github.com/sgeric910601/macbookBatteryMonitor#致謝)。
+
+`Contributor` `macOS` `Swift` `SwiftUI` `Power Monitoring`
+
+---
 ### 🏠 [Smart Home Hub · 繁體中文智慧家庭平台](https://github.com/melvin0kuo/smart-home-hub)
 
 **讓裝置狀態、房間與控制操作，集中在適合日常使用的介面。**
@@ -71,7 +82,6 @@ Computer Vision · Applied AI · Smart Home · Hardware & Software
 
 | 專案 | 我的參與／整理內容 |
 | :--- | :--- |
-| 🔋 [macbookBatteryMonitor](https://github.com/melvin0kuo/macbookBatteryMonitor) | **上游專案貢獻**：動畫電力流向、分層硬體功耗、功率感測備援、選單列百分比、滿電穩定顯示與管理員 CPU 取樣。詳見[上游致謝](https://github.com/sgeric910601/macbookBatteryMonitor#致謝)。 |
 | 🖥️ [Raspberry Pi LCD BootUp Solution](https://github.com/melvin0kuo/RaspberryPi-LCD-BootUp-Solution) | 整理 Raspberry Pi 3、Bookworm 64-bit 與 3.5 吋 SPI 觸控螢幕的驅動、開機與 Xorg 問題排解。 |
 
 ## ⚙️ Languages & Tools
