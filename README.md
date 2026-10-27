@@ -141,3 +141,24 @@ I enjoy connecting AI, software, and hardware—and working through the details 
 <sub>From pixels to practical systems.</sub>
 
 </div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/melvin0kuo">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=melvin0kuo&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1729&amp;title_color=67E8F9&amp;text_color=C0CCE0&amp;icon_color=C4B5FD" alt="Melvin Kuo 的 GitHub 統計：Stars、Commits、PR 與 Issues" />
+</a>
+<a href="https://github.com/melvin0kuo?tab=overview">
+  <img width="48%" src="https://streak-stats.demolab.com?user=melvin0kuo&amp;theme=tokyonight&amp;hide_border=true" alt="Melvin Kuo 的累積貢獻、目前連續貢獻與最長連續貢獻天數" />
+</a>
+
+<a href="https://github.com/melvin0kuo?tab=repositories">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melvin0kuo&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1729&amp;title_color=67E8F9&amp;text_color=C0CCE0&amp;langs_count=8" alt="Melvin Kuo 公開儲存庫的常用程式語言分布" />
+</a>
+
+<sub>圖表依服務快取更新；語言分布依儲存庫程式碼統計，並非熟練度排名。</sub>
+
+</div>
