@@ -15,9 +15,9 @@
 <path d="M923 153v-24h24m126 0h24v24m0 54v24h-24m-126 0h-24v-24" stroke-width="3"/>
 </g>
 <g fill="#67e8f9"><circle cx="1010" cy="180" r="8"/><circle cx="1102" cy="113" r="5"/><circle cx="876" cy="236" r="4"/></g>
-<rect x="64" y="65" width="204" height="29" rx="14" fill="#67e8f9" fill-opacity=".1" stroke="#67e8f9" stroke-opacity=".3"/>
+<rect x="64" y="65" width="288" height="29" rx="14" fill="#67e8f9" fill-opacity=".1" stroke="#67e8f9" stroke-opacity=".3"/>
 <g font-family="Segoe UI, Arial, sans-serif">
-<text x="82" y="85" fill="#8aeaf6" font-size="12" letter-spacing="2">RESEARCH / BUILD / REFINE</text>
+<text x="208" y="85" text-anchor="middle" fill="#8aeaf6" font-size="12" letter-spacing="2">RESEARCH / BUILD / REFINE</text>
 <text x="60" y="177" fill="#f1f5ff" font-size="72" font-weight="700" letter-spacing="-2">Melvin Kuo<tspan fill="#67e8f9">.</tspan></text>
 <text x="64" y="221" fill="#c0cce0" font-size="23">AI, vision &amp; everyday systems.</text>
 <text x="64" y="284" fill="#91a5c1" font-size="14" letter-spacing="2">COMPUTER VISION</text>
