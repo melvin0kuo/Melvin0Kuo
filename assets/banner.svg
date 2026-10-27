@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Melvin Kuo — AI, vision and everyday systems</title>
+<desc id="desc">Dark blue technology banner with cyan and violet orbital paths and the name Melvin Kuo.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#091222"/><stop offset=".55" stop-color="#14213a"/><stop offset="1" stop-color="#211638"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#67e8f9"/><stop offset="1" stop-color="#c4b5fd"/></linearGradient>
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#8eacd4" stroke-opacity=".08"/></pattern>
+</defs>
+<rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+<g fill="none" stroke="url(#accent)">
+<circle cx="1010" cy="180" r="112" opacity=".25"/><circle cx="1010" cy="180" r="78" opacity=".4"/>
+<ellipse cx="1010" cy="180" rx="155" ry="51" transform="rotate(-35 1010 180)" opacity=".6"/>
+<path d="M850 180h320M1010 30v300" opacity=".12"/>
+<path d="M923 153v-24h24m126 0h24v24m0 54v24h-24m-126 0h-24v-24" stroke-width="3"/>
+</g>
+<g fill="#67e8f9"><circle cx="1010" cy="180" r="8"/><circle cx="1102" cy="113" r="5"/><circle cx="876" cy="236" r="4"/></g>
+<rect x="64" y="65" width="204" height="29" rx="14" fill="#67e8f9" fill-opacity=".1" stroke="#67e8f9" stroke-opacity=".3"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+<text x="82" y="85" fill="#8aeaf6" font-size="12" letter-spacing="2">RESEARCH / BUILD / REFINE</text>
+<text x="60" y="177" fill="#f1f5ff" font-size="72" font-weight="700" letter-spacing="-2">Melvin Kuo<tspan fill="#67e8f9">.</tspan></text>
+<text x="64" y="221" fill="#c0cce0" font-size="23">AI, vision &amp; everyday systems.</text>
+<text x="64" y="284" fill="#91a5c1" font-size="14" letter-spacing="2">COMPUTER VISION</text>
+<text x="258" y="284" fill="#67e8f9" font-size="14">/</text>
+<text x="283" y="284" fill="#91a5c1" font-size="14" letter-spacing="2">APPLIED AI</text>
+<text x="407" y="284" fill="#c4b5fd" font-size="14">/</text>
+<text x="432" y="284" fill="#91a5c1" font-size="14" letter-spacing="2">HARDWARE + SOFTWARE</text>
+</g>
+<rect x="64" y="324" width="1072" height="2" rx="1" fill="url(#accent)" opacity=".55"/>
+</svg>
